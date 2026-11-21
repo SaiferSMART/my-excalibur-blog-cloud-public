@@ -163,3 +163,18 @@ memory/blog/articles/<topic_id>-<slug>/
 Для команд, которым нужен блог не как "генератор текстов", а как повторяемая система: SEO/GEO, AI-search, WordPress, визуалы, QA и публикация по расписанию.
 
 **Excalibur Blog Cloud: твой блог — твоё королевство, контент — твоя сила.**
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** Плагин для Cursor-автоматизации блога: SEO/GEO пайплайн на субагентах, визуалы, QA, llms.txt и SSH WordPress publish.
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — нет runtime-проверки).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [репозиторий](https://github.com/SaiferSMART/my-excalibur-blog-cloud-public); запуск приложения — не знаю (ищите инструкции в README).
+- **Связанные открытые PR:** [актуальный список](https://github.com/SaiferSMART/my-excalibur-blog-cloud-public/pulls?q=is%3Apr+is%3Aopen).
+- **Связанные открытые Issue:** [актуальный список](https://github.com/SaiferSMART/my-excalibur-blog-cloud-public/issues?q=is%3Aissue+is%3Aopen).
+- **Дата последнего изменения GitHub:** 2026-11-16T11:44:52Z (поле `pushed_at`, любая ветка; не равно проверке эксплуатации).
+- **Кто ведёт:** не знаю; владелец репозитория GitHub — `SaiferSMART`.
+- **Вопрос к владелице:** подтвердить статус, площадку, точку входа и фактического ведущего.
+- **Задание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435).
+<!-- SAIFER_REPO_PASSPORT_END -->
